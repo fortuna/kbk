@@ -11,3 +11,9 @@ Install the Python dependencies with
 
     pipenv install
 
+
+## Fetch the menu
+
+To fetch the menu as a JSON file, run
+
+    python fetch_menu.py
